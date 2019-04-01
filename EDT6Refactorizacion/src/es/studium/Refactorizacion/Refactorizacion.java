@@ -7,6 +7,6 @@ public class Refactorizacion
 	{
 		double resultado;
 		resultado=unidades*precioUnitario;
-		return resultado;
+		return resultado*21/100;
 	}
 }
